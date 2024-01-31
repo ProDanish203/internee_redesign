@@ -1,5 +1,6 @@
 import "./App.css";
 import {
+  Achievement,
   Banner,
   Categories,
   Header,
@@ -14,6 +15,7 @@ function App() {
       <Header />
       <Banner />
       <Categories />
+      <Achievement />
       <Internships />
       <NewsLetter />
       <SubFooter />

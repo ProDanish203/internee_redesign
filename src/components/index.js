@@ -5,6 +5,7 @@ import { SubFooter } from "./SubFooter";
 import { NewsLetter } from "./NewsLetter";
 import { Banner } from "./Banner";
 import { Internships } from "./Internships";
+import { Achievement } from "./Achievement";
 
 export {
   Header,
@@ -14,4 +15,5 @@ export {
   NewsLetter,
   Banner,
   Internships,
+  Achievement,
 };

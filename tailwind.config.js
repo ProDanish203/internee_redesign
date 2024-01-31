@@ -10,7 +10,7 @@ module.exports = {
     },
     backgroundImage: {
       "hero-pattern":
-        "linear-gradient(to right, rgba(67, 167, 36, 0.8), rgba(67, 167, 36, 0.5)), url('/src/assets/banner.jpg')",
+        "linear-gradient(to right, rgba(67, 167, 36, 0.8), rgba(67, 167, 36, 0.8)), url('/src/assets/banner.jpg')",
       newsletter:
         "linear-gradient(to right, rgba(67, 167, 36, 0.8), rgba(67, 167, 36, 0.5)), url('/src/assets/newsletter.jpg')",
     },
