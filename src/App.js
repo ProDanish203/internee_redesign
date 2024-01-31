@@ -1,12 +1,22 @@
-import './App.css';
-import { Header, SubFooter } from "./components";
+import "./App.css";
+import {
+  Banner,
+  Categories,
+  Header,
+  Internships,
+  NewsLetter,
+  SubFooter,
+} from "./components";
 
 function App() {
   return (
     <main>
-    <Header/>
-
-    <SubFooter/>
+      <Header />
+      <Banner />
+      <Categories />
+      <Internships />
+      <NewsLetter />
+      <SubFooter />
     </main>
   );
 }
