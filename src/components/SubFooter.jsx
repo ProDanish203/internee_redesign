@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 export const SubFooter = () => {
   return (
     <footer className='bg-primary text-[12px] text-white py-5'>
-      <div className='max-w-[1600px] w-full mx-auto flex items-center justify-around'>
+      <div className='max-w-[1600px] w-full mx-auto flex max-sm:gap-5 flex-wrap items-center justify-around'>
 
         <div className='flex items-center gap-4'> 
           <p>Copyright &copy; Internee.pk 2024</p>

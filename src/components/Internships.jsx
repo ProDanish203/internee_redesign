@@ -27,7 +27,7 @@ const InternCard = ({data}) => {
 
 export const Internships = () => {
   return (
-    <section className='max-w-[1500px] w-full px-10 mb-10'>
+    <section className='max-w-[1500px] w-full mx-auto px-10 mb-10'>
         <h2 className='sm:text-4xl text-3xl font-semibold mb-2'>Recent Internships</h2>
         <p className='font-semibold text-neutral-600 text-sm mb-10 sm:max-w-[600px]'>Internships came after every two months Grab your internships on your favourite domain to boost up yourself in the field of Computer technology</p>
 
